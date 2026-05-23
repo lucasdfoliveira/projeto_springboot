@@ -16,7 +16,7 @@ O projeto segue com a arquitetura baseada na comunicação de uma API Rest
 
 - CONTROLLERS (Interação com o cliente)
 - SERVICE (Contrato de négocio)
-- Repositories (Acesso e manipulação do banco de dados)
+- REPOSITORIES (Acesso e manipulação do banco de dados)
 
 ## 📌 Objetivo
 
